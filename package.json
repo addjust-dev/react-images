@@ -1,5 +1,5 @@
 {
-  "name": "react-images",
+  "name": "@skidding/react-images",
   "version": "1.0.0",
   "description": "A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS",
   "main": "lib/index.js",
