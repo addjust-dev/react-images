@@ -1,6 +1,6 @@
 {
   "name": "@skidding/react-images",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS",
   "main": "lib/index.js",
   "jsnext:main": "dist/react-images.es.js",
@@ -89,7 +89,8 @@
   "files": [
     "dist",
     "lib",
-    "src"
+    "src",
+    "index.d.ts"
   ],
   "lint-staged": {
     "*.js": "eslint"
